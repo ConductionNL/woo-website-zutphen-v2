@@ -1,0 +1,45 @@
+[
+  {
+    "items": [
+      {
+        "ariaLabel": "Address",
+        "multiRow": "Gemeente Zutphen \n 's Gravenhof 2 \n 7201 DN Zutphen",
+        "icon": { "prefix": "fas", "icon": "location-dot", "placement": "left" }
+      },
+      {
+        "ariaLabel": "Phone number",
+        "value": "14 05 75",
+        "link": "tel:140575",
+        "icon": { "prefix": "fas", "icon": "phone", "placement": "left" }
+      },
+      {
+        "ariaLabel": "Email",
+        "value": "info@zutphen.nl",
+        "link": "mailto:info@zutphen.nl",
+        "icon": { "prefix": "far", "icon": "envelope", "placement": "left" }
+      }
+    ]
+  },
+  {
+    "items": [
+      {
+        "ariaLabel": "Website",
+        "value": "www.zutphen.nl",
+        "link": "https://zutphen.nl/",
+        "icon": { "prefix": "fas", "icon": "globe", "placement": "left" }
+      },
+      {
+        "ariaLabel": "Toegankelijkheid",
+        "value": "Toegankelijkheid",
+        "markdownLink": "https://github.com/ConductionNL/woo-website-template/blob/main/docs/Toegankelijkheid.md",
+        "icon": { "prefix": "fas", "icon": "user-shield", "placement": "left" }
+      },
+      {
+        "ariaLabel": "Over deze website",
+        "value": "Over deze website",
+        "markdownLink": "https://github.com/ConductionNL/woo-website-template/blob/main/assets/Over%20deze%20website.md",
+        "icon": { "prefix": "fas", "icon": "circle-info", "placement": "left" }
+      }
+    ]
+  }
+]
