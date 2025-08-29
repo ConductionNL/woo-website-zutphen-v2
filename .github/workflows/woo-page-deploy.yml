@@ -17,7 +17,7 @@ env: # Change these to your preferences any image url can also be a base encoded
   JUMBOTRON_IMAGE_URL: "https://raw.githubusercontent.com/ConductionNL/woo-website-conduction/main/cropped-Conduction_HOME_0000_afb1-1.png"
   FOOTER_LOGO_URL: "true"
   FOOTER_LOGO_HREF: "https://conduction.nl/"
-  FOOTER_CONTENT: "https://raw.githubusercontent.com/ConductionNL/woo-website-template/main/pwa/src/templates/templateParts/footer/FooterContent.json"
+  FOOTER_CONTENT: "https://raw.githubusercontent.com/ConductionNL/woo-website-zutphen-v2/main/pwa/src/templates/templateParts/footer/FooterContent.json"
   FOOTER_CONTENT_HEADER: "heading-3"
   # OIDN_NUMBER: " "
   ENV_VARS_SET: "true"
@@ -85,3 +85,4 @@ jobs:
         with:
           branch: ${{ env.GITHUB_PAGES_BRANCH }}
           folder: pwa/public
+
